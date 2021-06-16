@@ -1,0 +1,9 @@
+img{
+    width:350px;
+    height:300px;
+    padding:10px;
+}
+.gallery1{
+list-style: none;
+display: flex;
+}
